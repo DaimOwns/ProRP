@@ -1,0 +1,30 @@
+C:\Users\Ben\Documents\SERVERS\Reality\bin\Debug\RealityEMU.exe.manifest
+C:\Users\Ben\Documents\SERVERS\Reality\bin\Debug\RealityEMU.application
+C:\Users\Ben\Documents\SERVERS\Reality\bin\Debug\RealityEMU.exe
+C:\Users\Ben\Documents\SERVERS\Reality\bin\Debug\MySql.Data.dll
+C:\Users\Ben\Documents\SERVERS\Reality\bin\Debug\mysql.data.entity.dll
+C:\Users\Ben\Documents\SERVERS\Reality\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ben\Documents\SERVERS\Reality\obj\x86\Debug\Reality.csproj.ResolveComReference.cache
+C:\Users\Ben\Documents\SERVERS\Reality\obj\x86\Debug\RealityEMU.Properties.Resources.resources
+C:\Users\Ben\Documents\SERVERS\Reality\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ben\Documents\SERVERS\Reality\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ben\Documents\SERVERS\Reality\obj\x86\Debug\RealityEMU.TrustInfo.xml
+C:\Users\Ben\Documents\SERVERS\Reality\obj\x86\Debug\RealityEMU.exe.manifest
+C:\Users\Ben\Documents\SERVERS\Reality\obj\x86\Debug\RealityEMU.application
+C:\Users\Ben\Documents\SERVERS\Reality\obj\x86\Debug\RealityEMU.exe
+C:\Users\Ben\Documents\SERVERS\Reality\obj\x86\Debug\RealityEMU.pdb
+C:\Users\Ben\Documents\SERVERS\Reality\bin\Debug\RealityEMU.pdb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Reality\Reality\obj\x86\Debug\Reality.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\Downloads\Reality\Reality\obj\x86\Debug\RealityEMU.exe
+C:\Documents and Settings\Administrator\My Documents\Downloads\Reality\Reality\obj\x86\Debug\RealityEMU.pdb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Reality\Reality\bin\Debug\RealityEMU.exe.manifest
+C:\Documents and Settings\Administrator\My Documents\Downloads\Reality\Reality\bin\Debug\RealityEMU.application
+C:\Documents and Settings\Administrator\My Documents\Downloads\Reality\Reality\bin\Debug\RealityEMU.exe
+C:\Documents and Settings\Administrator\My Documents\Downloads\Reality\Reality\bin\Debug\RealityEMU.pdb
+C:\Documents and Settings\Administrator\My Documents\Downloads\Reality\Reality\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Downloads\Reality\Reality\obj\x86\Debug\Reality.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Downloads\Reality\Reality\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Downloads\Reality\Reality\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Downloads\Reality\Reality\obj\x86\Debug\RealityEMU.TrustInfo.xml
+C:\Documents and Settings\Administrator\My Documents\Downloads\Reality\Reality\obj\x86\Debug\RealityEMU.exe.manifest
+C:\Documents and Settings\Administrator\My Documents\Downloads\Reality\Reality\obj\x86\Debug\RealityEMU.application
